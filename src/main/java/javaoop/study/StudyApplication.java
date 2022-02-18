@@ -9,7 +9,7 @@ public class StudyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(StudyApplication.class, args);
-        Cap cap = new MagicCap();
-        System.out.println(cap.pullOut());
+//        Cap cap = new MagicCap();
+//        System.out.println(cap.pullOut());
     }
 }
